@@ -1,2 +1,3 @@
 <?php 
-echo "Witam Wszystkich";
+get_header();
+get_footer();
